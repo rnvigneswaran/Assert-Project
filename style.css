@@ -1,0 +1,11 @@
+/* Removing Extra Padding And Margin For Whole body */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Removing Extra Padding And Margin For Whole body */
+
+
